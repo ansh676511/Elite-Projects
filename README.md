@@ -6,7 +6,7 @@
 2. [Task 1: Spam Email Detection](#task-1-spam-email-detection)
 3. [Task 2: Chatbot Implementation](#task-2-chatbot-implementation)
 4. [Task 3: Predictive Modeling with Scikit-learn](#task-3-predictive-modeling-with-scikit-learn)
-5. Task 4: Spam Email Detection using Scikit-learn (#task-4-Spam Email Detection using)
+5. [Task 4: Spam Email Detection Using Scikit-learn](#task-4-spam-email-detection-using-scikit-learn)
 6. [Installation Guide](#installation-guide)
 7. [Usage Instructions](#usage-instructions)
 8. [Contributing](#contributing)
